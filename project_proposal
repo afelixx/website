@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ㅇㅅㅇ -  Project Proposal</title>
+  <style>
+  body {font-family: monospace; overflow-y: scroll;}
+  h1 {font-family: monospace; text-decoration: overline; color: black; text-decoration-color: red; position: sticky;}
+  a {color: red;}
+    p {font-family: sans-serif;}
+    button {
+      border-style: solid;
+      border-radius: 90px;
+    }
+</style>
+</head>
+<body>
+<h2 color:red>Computation and/as Weaving</h2>
+<audio controls>
+<source src="felix_proposal.mp4a"> type="audio/mpeg">
+</audio>
+</body>
+</html>
